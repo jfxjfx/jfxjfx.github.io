@@ -445,11 +445,12 @@ span.offcanvas-heading, #menu-sidebar-menu-1 {
 
 
 .elementor-widget-furnob-banner-box .banner, .elementor-widget-furnob-banner-box2 .banner, .elementor-widget-furnob-subscribe-box .banner, .elementor-widget-furnob-banner-box3 .banner, .elementor-widget-furnob-banner-slider .banner {
-    border-radius: 10px !important;
-    border-top-left-radius: 10px !important;
+/*     border-radius: 10px !important; */
+    border-radius: 0px !important;
+/*     border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
-    border-bottom-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important; */
 }
 
 .products .product .product-title, .products .product .price {
