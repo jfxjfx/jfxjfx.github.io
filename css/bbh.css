@@ -701,6 +701,10 @@ body.elementor-page-78 .site-header .header-main, .x-site-header .header-mobile,
 /* 	color: black !important; */
 }
 
+li.search-more {
+    display: none !important;
+}
+
 .newsletter-content h3.entry-title {
     color: black !important;
 }
