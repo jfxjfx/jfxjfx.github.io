@@ -244,7 +244,8 @@ a.button.wp-element-button.product_type_simple.add_to_cart_button.ajax_add_to_ca
 .elementor-widget-container .image-block .image-description {
     position: absolute;
     padding: 0.625rem 0.75rem;
-    border-radius: 2px;
+    border-radius: 0px;
+/* 	2px */
     background-color: #fff;
     z-index: 1;
     position: absolute;
