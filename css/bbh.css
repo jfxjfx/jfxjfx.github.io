@@ -3,7 +3,7 @@ html, body, .entry-title, a, .subscribe-input.line, .entry-content {
 }
 
 body, h3:before {
-	background-color: #DCD0B5 !important
+	/*background-color: #DCD0B5 !important*/
 }
 
 /* below newsletter color */
