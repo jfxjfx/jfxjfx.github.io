@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .owl-carousel .owl-stage-outer {
-    border-radius: 15px;
+/*     border-radius: 15px; */
 }
 
 .site-departments>a {
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .elementor img {
-    border-radius: 15px;
+/*     border-radius: 15px; */
 }
 
 #simple-chat-button--container {
@@ -237,7 +237,7 @@ a.button.wp-element-button.product_type_simple.add_to_cart_button.ajax_add_to_ca
     margin-right: auto;
 /*     background: rgba(0,0,0,0.7); */
     padding: 40px;
-    border-radius: 15px;
+/*     border-radius: 15px; */
 }
 
 .elementor-widget-container .image-block .image-description {
@@ -581,7 +581,7 @@ table.tinvwl-table-manage-list .button {
 }
 
 .module-slider .slider-image:not(.no-opacity)::before {
-    border-radius: 15px !important;
+/*     border-radius: 15px !important; */
     background: none !important;
 }
 
