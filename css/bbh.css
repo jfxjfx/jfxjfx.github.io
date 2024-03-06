@@ -740,3 +740,10 @@ top: -12px;
 height: 46px;
 font-weight: 500;
 }
+
+.woocommerce ul.products li.product a.add-request-quote-button.button,
+.wp-block-post.product a.add-request-quote-button.button,
+a.add-request-quote-button.button {
+    padding: 0.65rem 2rem !important;
+}
+
