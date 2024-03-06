@@ -735,7 +735,8 @@ padding: 0.5rem 0.9375rem;
 height: var(--size-form-height);
 border: none;
 border-radius: 0;
-top: -4px;
+/* top: -4px; */
+top: -12px;
 height: 46px;
 font-weight: 500;
 }
