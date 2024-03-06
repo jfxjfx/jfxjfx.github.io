@@ -733,7 +733,7 @@ font-size: 15px !important;
 line-height: inherit;
 padding: 0.5rem 0.9375rem;
 height: var(--size-form-height);
-border: none;
+border: none !important;
 border-radius: 0;
 /* top: -4px; */
 top: -12px;
