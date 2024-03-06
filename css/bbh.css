@@ -714,7 +714,7 @@ li.search-more {
 .wishlist_products_counter_number, .cart-count.count {
 	background: black !important;
 }
-.woocommerce .add-request-quote-button.button, .woocommerce .add-request-quote-button-addons.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button-addons.button
+.woocommerce .xadd-request-quote-button.button, .xwoocommerce .add-request-quote-button-addons.button, .xyith-wceop-ywraq-button-wrapper .add-request-quote-button.button, .xyith-wceop-ywraq-button-wrapper .add-request-quote-button-addons.button
 {
 	background-color: rgb(149,79,49)!important;
 color: #ffffff!important;
