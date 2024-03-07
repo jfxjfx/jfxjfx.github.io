@@ -747,3 +747,6 @@ a.add-request-quote-button.button {
     padding: 0.65rem 2rem !important;
 }
 
+.woocommerce-Price-amount > bdi {
+  display:none;
+}
