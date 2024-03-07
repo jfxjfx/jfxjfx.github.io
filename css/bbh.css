@@ -750,3 +750,7 @@ a.add-request-quote-button.button {
 .woocommerce-Price-amount > bdi {
   display:none;
 }
+
+.single-details .price bdi {
+    display: inline-block;
+}
