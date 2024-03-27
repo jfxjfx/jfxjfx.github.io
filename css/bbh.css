@@ -758,3 +758,7 @@ a.add-request-quote-button.button {
 a.button.wp-element-button.product_type_simple {
     display: none;
 }
+
+.products.grid-views.mobile-2 .product {
+    text-align: center;
+}
