@@ -754,3 +754,7 @@ a.add-request-quote-button.button {
 .single-details .price bdi {
     display: inline-block;
 }
+
+a.button.wp-element-button.product_type_simple {
+    display: none;
+}
